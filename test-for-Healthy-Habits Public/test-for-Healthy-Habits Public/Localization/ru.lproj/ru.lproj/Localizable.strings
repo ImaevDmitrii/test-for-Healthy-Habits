@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  test-for-Healthy-Habits Public
+
+  Created by Dmitrii Imaev on 02.08.2024.
+  
+*/
+"choose_category" = "Выберите категорию";
+"choose_background_color" = "Выберите цвет фона";
+"choose_gender" = "Выберите пол";
+"settings" = "Настройки";
+"category" = "Категория";
+"background_color" = "Цвет фона";
+"gender" = "Пол";
+"language" = "Язык";
+"change_language" = "Изменить язык";
+"no_affirmations_available" = "Нет доступных аффирмаций";
+
+"love" = "Любовь";
+"friendship" = "Дружба";
+
+"blue" = "Синий";
+"red" = "Красный";
+"male" = "Мужской";
+"female" = "Женский";
+"english" = "Английский";
+"russian" = "Русский";
+"done" = "Готово";
